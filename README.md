@@ -2,13 +2,13 @@
 
 This example shows how to manage eventsub requests in Deno.
 
-[![Deploy this example](https://deno.com/deno-deploy-button.svg)](https://dash.deno.com/new?url=https://raw.githubusercontent.com/ablause/deno-twitch-eventsub/mod.ts)
+[![Deploy this example](https://deno.com/deno-deploy-button.svg)](https://dash.deno.com/new?url=https://raw.githubusercontent.com/ablause/deno-twitch-eventsub/master/mod.ts)
 
 ## How to use
 
 ### Generate UUID
 
-In deno environment:
+Run the function using [`deno`](https://github.com/denoland/deno):
 
 ```sh
 crypto.randomUUID()
@@ -26,7 +26,7 @@ You can run the example program on your machine using
 [`deno`](https://github.com/denoland/deno):
 
 ```sh
-deno run https://raw.githubusercontent.com/ablause/deno-twitch-eventsub/mod.ts
+deno run https://raw.githubusercontent.com/ablause/deno-twitch-eventsub/master/mod.ts
 ```
 
 ## Testing
